@@ -1,0 +1,979 @@
+
+A 
+Abdomen 
+Accessible Gaming 
+Ace 
+Actually 
+Add 
+Adrenal Glands 
+Aerial Tramway 
+Ah The Pain 
+Air Hockey 
+Air Purifier 
+Air Warfare 
+Airplane 
+Alarm Clock 
+Alert 
+Alien Detected 
+All Monsters Killed 
+All Zombies Killed 
+Allow 
+Almost There 
+Alpha Version 
+Amazing 
+Ambulance 
+Ammo 
+Amphibious Vehicle 
+Angry Monster 
+Ankle 
+Appear 
+Appendix 
+Apron 
+Arcade Mode 
+Are You Cheating 
+Are You Ready 
+Are You Sure 
+Arm 
+Arrghh 
+Arrow And Sword 
+Ask 
+Asteroid 
+Attack Mode 
+Attack 
+Avoid The Cars 
+Avoid The Cave Walls 
+Avoid The Enemies 
+Avoid The Humans 
+Avoid The Items 
+Avoid The Monsters 
+Avoid The Other Cars 
+Avoid The Plants 
+Avoid The Poles 
+Avoid The Water 
+Back 
+Baking Sheet 
+Ball Bounce 
+Ball Eater 
+Bamboo Climber 
+Base Defense 
+Basket Ball 
+Bathroom Scale 
+Bathtub 
+Battle Heroes 
+Battle Lost 
+Battle Ships 
+Battle Won 
+Beat M Up 
+Become 
+Bed 
+Bedsheets 
+Bedside Table 
+Begin 
+Behind You! 
+Believe 
+Beta Version 
+Bicycle 
+Bike 
+Billion 
+Birdy Bird 
+Black Jack 
+Bladder 
+Blast The Enemy Ships 
+Blender 
+Boat 
+Bomb Escape 
+Bonus Coming 
+Bonus Level 
+Bonus Points 
+Bonus Round 
+Bonus 
+Bookshelf 
+Booting 
+Bounce As High As You Can 
+Brain 
+Bread Box 
+Breast 
+Brick Game 
+Bring 
+Broom And Dustpan 
+Broom 
+Bucket 
+Build 
+Bulldozer 
+Bullseye 
+Bus 
+Buttocks 
+Buy Now 
+Buy 
+C 
+Cable Car 
+Calf 
+Call 
+Camel Cart 
+Camper Van 
+Can Opener 
+Can 
+Candles 
+Car 
+Cargo Ship 
+Carpet 
+Cash Boost 
+Ceiling Fan 
+Cement Mixer 
+Chaff Released 
+Chair 
+Change Direction With The Left Button 
+Change 
+Charging Weapon 
+Cheat Mode Active 
+Chest 
+Chimney 
+Choose Colour Scheme 
+Choose Contrast 
+Choose Difficulty 
+Choose Human Player Or Computer Player For This Counter 
+Choose Level 
+Choose The Monster To Kill The Dead 
+Choose Weapon 
+Choose Your Bird 
+Choose Your Boat 
+Choose Your Character 
+Choose Your Colour 
+Choose Your Plane 
+Choose Your Player 
+Choose Your Ship 
+Chopping Knife 
+Civilian Kill 
+Cleaning Supplies 
+Click To Choose Higher 
+Click To Choose Lower 
+Click To Place Your Piece 
+Click To Visit Website 
+Climb The Bamboo As High As You Can 
+Climb The Bamboo 
+Clock 
+Close 
+Closet 
+Coat Hangers 
+Coat Hooks 
+Coat Rack 
+Coffee Maker 
+Coffee Table 
+Collect Boost For Speed Boost 
+Collect For An Upgrade 
+Collect Gems Avoid The Plants 
+Collect The Bonus For Upgrade 
+Collect The Bonus To Shoot Faster 
+Collect The Gems Avoid The Bricks 
+Collect The Gems 
+Come Back And Play Again 
+Come 
+Complete Level Without Hitting Anything 
+Computer Off 
+Computer On 
+Computer Player 
+Congratulations 
+Consider 
+Continue 
+Control Brick With The Left Mouse Button 
+Control On 
+Control With Left Button 
+Control With Left Mouse Button 
+Convertible 
+Cooking Utensils 
+Couch 
+Could 
+Crane 
+Create 
+Created By Ben 
+Created By One Button Controlled Games 
+Curtains 
+Cut 
+Cutlery Set 
+Cutting Board 
+D 
+Dance Raccoon 
+Dance Tap 
+Danger 
+Darts 
+Deliver The Pizzas 
+Delivery Van 
+Die 
+Different Levels Need Other Boats 
+Difficult 
+Dining Chairs 
+Dining Table 
+Dino Run 
+Dino Safari 
+Dinosaur Escaped# 
+Dirt Bike 
+Dish Rack 
+Dishwasher 
+Do Not Shoot Civilians 
+Do 
+Dollars 
+Donkey Cart 
+Don't Get Lost 
+Door Mat 
+Double Kill 
+Double Points 
+Double Tap To Attack 
+Double Tap To Kick 
+Double Tap To Punch 
+Double Tap To 
+Double 
+Down 
+Dresser 
+Drive The Tractor 
+Dryer 
+Dump Truck 
+Dune Buggy 
+Dustbin 
+E 
+Ear 
+Easy 
+Eat The Food - Avoid The Rat 
+Eat The Food, Avoid The Walls 
+Ee 
+Eight Hundred 
+Eight Thousand 
+Eight 
+Eighteen 
+Eighth 
+Eighty 
+Elbow 
+Electric Drill 
+Electric Scooter 
+Eleven 
+End 
+Enemies Killed 
+Enemy Detected 
+Enhanced Contrast 
+Enter Password 
+Enter Your Name 
+Escape To Exit To Windows 
+Exit 
+Exiting To Windows 
+Expect 
+Extension Cord 
+Extra Ammo 
+Eye 
+Eyebrow 
+F 
+Face 
+Fall 
+Fan 
+Fastback 
+Feel 
+Fifteen 
+Fifth 
+Fifty 
+Fight Is On 
+Fight Now 
+Fight On 
+Fighter 
+Find A Path Through 
+Find The Portal To Complete The Level 
+Find 
+Fingers 
+Fire Alarm 
+Fire Extinguisher 
+Fire Jump 
+Fire Truck 
+First Blood 
+First 
+Fishing Game 
+Five Hundred 
+Five Thousand 
+Five 
+Flame Thrower Selected 
+Flap Your Wings With The Left Button 
+Flare Released 
+Flying Dragon 
+Follow Me! 
+Follow 
+Food Processor 
+Foot 
+Forearm 
+Forehead 
+Forklift 
+Forteen 
+Forth 
+Forty 
+Forwards 
+Four Hundred 
+Four In A Row 
+Four Thousand 
+Four 
+Freezer 
+Fridge 
+Frogie 
+Fruit Cutter 
+Fruit Missed 
+Funky Racing 
+G 
+Gallbladder 
+Game Commences 
+Game Ending 
+Game Over 
+Game Paused 
+Game Restarted 
+Gamemaker 
+Gangster 
+Garbage Disposal 
+Garden Hose 
+Gas Stove 
+Get Down! 
+Get Ready 
+Get The Fasted Time 
+Get 
+Give 
+Gladiators 
+Glassware 
+Go 
+Go-kart 
+Grab Bonus Icons For Powerup 
+Great Score 
+Grenade Away 
+Grenade Selected 
+Grow 
+Guess If The Next Card Is Higher Or Lower 
+Guess The Next Card 
+H 
+Hair Dryer 
+Hair 
+Hammer 
+Hand Gun Selected 
+Hand Towel 
+Hand 
+Hang Glider 
+Happen 
+Hard 
+Hardtop Coupe 
+Hatchback 
+Have 
+Head Shot 
+Head 
+Health Boost 
+Hear 
+Heart 
+Heater 
+Heel 
+Helicopter 
+Hell Copter 
+Help 
+Hey 
+Hidden Treasure 
+High Contrast 
+High Kick 
+High Low Card Game 
+Hip 
+Hit Percentage 
+Hit The Highest Score 
+Hit The Zombies 
+Hold Down Left Button To Control 
+Hold to block 
+Hold To Choose Angle 
+Hold To Choose Power 
+Hold To Punch 
+Hold 
+Horse And Carriage 
+Horse Race 
+Hot Air Balloon 
+Human Hit 
+Human Player 
+Humidifier 
+Hundred 
+Hybrid Car 
+Hyper Mode 
+I 
+I'm Bleeding 
+Include 
+Incoming Detected 
+Incoming 
+Incorrect Password 
+Inflatable Mattress 
+Insane 
+Insect Repellent 
+Intestines (Small And Large) 
+Iron And Ironing Board 
+Iron 
+Ironing Board 
+Ironing Spray 
+Item Purchased 
+J 
+Jack 
+Jeep 
+Jet Fighter 
+Jet Plane 
+Jet Ski 
+Jet 
+Jetpack 
+Juicer 
+Jump As High As You Can 
+Jump With Left Button 
+Jungle Mode 
+K 
+Kayak 
+Keep 
+Kettle 
+Kidneys 
+Kill Enemies To Gain Points 
+Kill The Monsters Before They Reach Your Tower 
+Kill Them Quicker 
+Kill To Complete The Level 
+Kill 
+Kitchen Sink 
+Knee 
+Knife Set 
+Know 
+L 
+Ladder 
+Lamp 
+Last 
+Laundry Basket 
+Laundry Detergent 
+Lawn Mower 
+Lead 
+Learn 
+Leave 
+Left Button To Aim 
+Left Button To Fire Your Jetpack 
+Left Click To Fire Weapon 
+Left Mouse Button To Control Of The Latest Attack Helicopted 
+Left Mouse Button To Shoot 
+Left 
+Let 
+Let's Go 
+Level Complete 
+Level Design Mode 
+Level Failed 
+Level Locked 
+Level Started 
+Level Unlocked 
+Level 
+Lifeboat 
+Liftback 
+Light Bulb 
+Like 
+Limousine 
+Lips 
+Live 
+Liver 
+Load Game 
+Long Tap To Move 
+Long Way To Go 
+Look 
+Lose 
+Love 
+Low Ammo 
+Low Contrast 
+Low Health 
+Low Kick 
+Lucky Spin 
+Ludo 
+Lungs 
+M 
+Machine Gun Selected 
+Mad Scientist 
+Made With Game Maker 
+Made With Gamemaker 
+Make 
+Massive Damage 
+Match The Bubbles 
+Match The Coloured Balls 
+Match The Tiles 
+Match Three In A Row 
+Match To Destroy Them 
+Matched 
+Matching Game 
+Mattress 
+May 
+Mean 
+Medicine Cabinet 
+Medium 
+Meet 
+Mega Kill 
+Mega Mode 
+Mega Wormhole 
+Merge Shooter 
+Metro 
+Microwave 
+Might 
+Million 
+Mini Car 
+Mirror 
+Missile Away 
+Missile Selected 
+Mission Briefing 
+Mixer 
+Mobility Scooter 
+Monorail 
+Monster Match 
+Monsters V Dead 
+Mop And Bucket 
+Mop 
+Moped 
+Motorcycle 
+Mountain Bike 
+Mouse Trap 
+Mouth 
+Move With Left Button 
+Move 
+Moves 
+Multi Bonus 
+Multi Fruits 
+Multi Kill 
+Music Selected 
+Must 
+N 
+Napalm Selected 
+Napkins 
+Navel 
+Neck 
+Need 
+Neighbourhood Defence 
+New Games Every Month 
+New Highscore 
+Nightstand 
+Nine Hundred 
+Nine Thousand 
+Nine 
+Nineteen 
+Ninety 
+Ninth 
+No Ammo 
+Nose 
+Not Enough Cash 
+Noughts And Crosses 
+Nuke Away 
+Nuke Ready 
+Nuke Selected 
+Number Keys To Select Weapon 
+O 
+Offer 
+Oh No 
+Oil Tanker 
+On 
+One Button Controlled Games 
+One Hundred And Eighty 
+One Hundred 
+One Thousand 
+One 
+Oo Yeah 
+Oo 
+Ooow 
+Oops 
+Open 
+Operation Fox 
+Options 
+Ottoman 
+Ouch 
+Outer Bullseye 
+Oven 
+Over Here! 
+Over Kill 
+Overhead Fan 
+Ow 
+P 
+Paintings 
+Pancreas 
+Pantry 
+Paper Towel Holder 
+Parachute 
+Paraglider 
+Password Selected 
+Pay 
+Percent 
+Perfect Level 
+Perfect 
+Picture Frame 
+Picture Frames 
+Pillows 
+Pirate Racer 
+Pistol Selected 
+Plane Game 
+Plane 
+Plant Pot 
+Plant Stand 
+Plates 
+Play 
+Player One Wins 
+Player One 
+Player Two Wins 
+Player Two 
+Player 
+Please Stand By 
+Please Wait 
+Points Lost 
+Police Car 
+Pots And Pans 
+Pounds 
+Power Strip 
+Press Left Button To Visit My Website 
+press now to play with fastest speed 
+press now to play with medium speed 
+press now to play with slowest speed 
+Press To Exit Game 
+PRESS to turn voice and hints on or off 
+Press 
+Pressure Cooker 
+Printer 
+Provide 
+Punch 
+Purchase Complete 
+Put Out The Fires And Save The People 
+Put 
+Puzzle Complete 
+Puzzle Slider 
+Q 
+Quadrillion 
+Queen 
+Quick Tap To Change Direction 
+Quilt 
+R 
+Raccoon Bubble 
+Racing Game 
+Radio 
+Raft 
+Rampage 
+Reach 
+Read 
+Refrigerator 
+Release To Choose Angle 
+Release To Choose Power 
+Remain 
+Remaining Chance 
+Remember Location Of Tiles 
+Remember 
+Replay 
+Restart 
+Retry 
+Rice Cooker 
+Rickshaw 
+Riding Lawnmower 
+Rifle Selected 
+Right Click To Pick Up Bonus 
+Right 
+Roasting Pan 
+Robot Rampage 
+Rocket 
+Roller Skates 
+Rolling Pin 
+Ropeway 
+Rotate With The Left Mouse Button 
+Rowboat 
+Rude Races 
+Rug 
+Run 
+Runner Game 
+Rv 
+S 
+Santa Must Save Christmas 
+Save Game 
+Say 
+Scatter Bomb Selected 
+Scooter 
+Sea Mode 
+Second 
+See 
+Seem 
+Segway 
+Select Angle 
+Select Character 
+Select Game Mode 
+Select Level 
+Select Power 
+Select The Track 
+Select You Car 
+Semi-trailer 
+Send 
+Serve 
+Set 
+Settings 
+Seven Hundred 
+Seven Thousand 
+Seven 
+Seventeen 
+Seventh 
+Seventy 
+Sewing Machine 
+Shelves 
+Ship Blaster 
+Ship Destroyed 
+Ship 
+Shoe Horn 
+Shoe Rack 
+Shoot All The Zombies 
+Shoot For Weapon Boost 
+Shoot The Bonus For Upgrade 
+Shoot The Bubbles 
+Shoot The Dinosaurs 
+Shoot The Ducks 
+Shoot The Enemies When Locked 
+Shoot The Enemies With Your Laser 
+Shoot The Enemies 
+Shoot The Enemy Aircraft 
+Shoot The Monsters 
+Shoot The Other Tank 
+Shoot The Parachutes For Bonuses And Upgrades 
+Shoot The Parachutes 
+Shoot The Towers 
+Shoot The Zombies 
+Shoot To Health Boost 
+Shoot With Your Laser 
+Shoot 
+Shooter 
+Shop 
+Shot Gun Selected 
+Should 
+Shoulder 
+Show 
+Shower Caddy 
+Shower Curtain 
+Shut Down 
+Sideboard 
+Sink 
+Sit 
+Six Hundred 
+Six Thousand 
+Six 
+Sixteen 
+Sixth 
+Sixty 
+Skateboard 
+Skiing 
+Skis 
+Sky Climber 
+Slice The Fruit 
+Slide The Pieces To Complete The Puzzle 
+Slider 
+Slow Down 
+Snake 
+Snowboard Game 
+Snowmobile 
+Snowplough 
+So Close 
+Soap Dispenser 
+Sofa 
+Sole 
+Sound Effects Off 
+Sound Effects On 
+Space Mode 
+Speak 
+Speed Boost 
+Spend 
+Spin To Win 
+Spleen 
+Sports Bike 
+Stack Jump 
+Stand 
+Standard Contrast 
+Start 
+Station Wagon 
+Stay 
+Steam Iron 
+Step Stool 
+Stereo System 
+Stomach 
+Stop 
+Stove 
+Straight Ahead 
+Submarine 
+Subway Train 
+Super Bonus 
+Super 
+Survive As Long As You Can 
+Suv 
+Swipe To 
+T 
+Table 
+Tablecloth 
+Take Cover 
+Take 
+Talk 
+Tank Defense 
+Tank Game 
+Tank 
+Tap Longer To Move Bamboo 
+Tap Mouse Button To Slice 
+Tap To Change Direction 
+Tap To Drop A Bomb 
+Tap To Flap Wings 
+Tap To Jump 
+Tap To Kick 
+Tap To Launch The Monster 
+Tap To Make You Horse Run 
+Tap To Punch 
+Tap To Roll The Dice 
+Tap To Shoot Arrow 
+Tap To Shoot At The Monsters 
+Tap To Shoot At The Zombies 
+Tap To Shoot The Ball 
+Tap To Spin 
+Tap To 
+Taxi 
+Taxing 
+Teeth 
+Television 
+Tell 
+Ten In A Row 
+Ten Thousand 
+Ten 
+Tenth 
+Thanks For Playing 
+That Hurt 
+Thats Got To Hurt 
+The Card Is 
+The Other Way! 
+Thigh 
+Think 
+Third 
+Thirteen 
+Thirty 
+This Level Is Locked 
+Thousand 
+Three Hundred 
+Three In A Row 
+Three Points 
+Three Thousand 
+Three 
+Thumb 
+Thyroid Gland 
+Tissue Box 
+Toaster 
+Toe 
+Toes 
+Toiletries 
+Tongue 
+Too Much Spin 
+Total Enemies 
+Towel Rack 
+Tractor 
+Train 
+Tram 
+Trash Bags 
+Trash Can 
+Trash Compactor 
+Treble 
+Tricycle Wheelchair 
+Trillion 
+Triple Kill 
+Triple Points 
+Truck 
+Try Again 
+Try 
+Turn Around 
+Turn Left 
+Turn Right 
+Turn 
+Tutorial Mode 
+Tv 
+Twelve 
+Twenty 
+Two Hundred 
+Two In A Row 
+Two Thousand 
+Two 
+U 
+Ultralight Aircraft 
+Umbrella 
+Understand 
+Unicycle 
+Up 
+Upgrade 
+Use Left Mouse Button To Move 
+Use Points To Buy Ammo 
+Use 
+Utensils 
+V 
+Vacuum Cleaner 
+Van 
+Vase 
+Victory 
+voices and hints are now off 
+voices and hints are now on 
+Voices Off 
+Voices On 
+Volume Down 
+Volume Up 
+W 
+Walk 
+Wall Art 
+Wall Clock 
+Want 
+Wardrobe 
+Warning (3) 
+Warning Fog 
+Warning Low Health 
+Warning Snow 
+Warning 
+Washing Machine 
+Watch 
+Weapon Arming 
+Weapon Away 
+Weapon Boost 
+Weapon Deployed 
+Weapon Empty 
+Weapon Jammed Too Hot 
+Weapon Ready 
+Weapon Selected 
+Weapon Upgrade 
+Weather Warning 
+Well Played 
+Wheelbarrow 
+Will 
+Win 
+Window Blinds 
+Windy Woods 
+Wine Glasses 
+Wine Rack 
+Work 
+Works With Joy To Key 
+Would 
+Wow 
+Wrist 
+Write 
+Wrong Way! 
+X 
+Y 
+Yacht 
+Yeah 
+You Are Dead 
+You Are In Control Of 
+You Completed The Level 
+You Did Well 
+You Finished 
+You Got It In The Hoop 
+You Got Three Fruits 
+You Got Two Fruits 
+You Guessed Correctly 
+You Guessed Wrong 
+You Have A Message 
+You Hit The Hoop 
+You Hit Yourself 
+You Hit 
+You Lose! 
+You Lost The Battle 
+You Lost The Fight 
+You Lost The Race 
+You Lost 
+You Missed A Dinosaur 
+You Missed Too Many Game Over 
+You Missed 
+You Nearly Got That 
+You Need More Practice 
+You Rolled 
+You Took 
+You Won The Battle 
+You Won The Fight 
+You Won The Race 
+You Won 
+Your Card Is 
+Your Score Is 
+You're On Fire 
+Z 
+Zamboni 
+Zeppelin 
+Zombie Slots 
+Zombie Survivor 

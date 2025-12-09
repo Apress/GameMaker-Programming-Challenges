@@ -1,0 +1,1361 @@
+ 1. Keep Instances In View
+ Ball  opengameart.org/users/gothicfan95
+ 2. Line Of Sight
+ Wall  opengameart.org/users/antumdeluge
+ Enemy  opengameart.org/users/bevouliincom
+ Player  opengameart.org/users/bevouliincom
+ 3. Simple Level Complete Save System
+ No assets.
+ 4. Seeking Missile
+ Enemy  opengameart.org/users/bevouliincom
+ Missile  opengameart.org/users/bevouliincom
+ 5. Draw Health As Bars
+ No assets.
+ 6. Ellipse Movement
+ Bird  opengameart.org/users/bevouliincom
+ 7.Draw Contents of Array
+ No assets.
+ 8. Adaptable Engine Noise
+ Engine Sound  freesound.org/people/MarlonHJ/
+ 9. Drag-able Objects
+ Bird Bird  opengameart.org/users/bevouliincom
+ 10.Mini Map
+ Player  opengameart.org/users/bevouliincom
+ Wall  opengameart.org/users/gothicfan95
+ 11. Trail Effect
+ Player  opengameart.org/users/bevouliincom
+ 12. Change Image On Mouse Interaction
+ Buttons  opengameart.org/users/hawkadium
+ 13. Mouse Pointer Point Direction
+ Arrow  opengameart.org/users/oglsdl
+ 14. POwer Up
+ No assets.
+ 15. Pushable Blocks
+ Player  opengameart.org/users/bevouliincom
+ Crate  opengameart.org/users/polygonixgames
+ 16. Radar
+ Gem  opengameart.org/users/sylly
+ Player  opengameart.org/users/bevouliincom
+ 17. Random Word From Text File
+ No assets.
+ 18.Real Time Clock Example
+ No assets.
+ 19. Score With Leading Zeros
+ No assets.
+ 20. Fading Moving Text
+ No assets.
+ 21. Cool Down System
+ Negative  freesound.org/people/jhyland/
+ 22. Sliding Bar
+ No assets.
+ 23. Slowly Move
+ Player  opengameart.org/users/bevouliincom
+ 24. Rising SmokeE ffect
+ Smoke  opengameart.org/users/rubberduck
+ 25. Typewriter Effect
+ No assets.
+ 26. Level Unlock System
+ Star  opengameart.org/users/galangpiliang
+ Padlock  opengameart.org/users/knik1985
+ 27. Weapon System
+ Handgun  opengameart.org/users/rgsdev
+ Rifle  opengameart.org/users/smbx
+Gun Sound  freesound.org/people/kretopi/
+ Rifle Sound  freesound.org/people/malatestinic.com/
+ 28. Top Down Character Control
+ Character  Spyros Kontis
+ 29. Blood Effects Using Particles
+ No assets.
+ 30. Draw Text Info With Background
+ No assets.
+ 31. Speed Boost
+ Player  opengameart.org/users/bevouliincom
+ Powerup  opengameart.org/users/sylly
+ 32. Projectile Speed Boost
+ Player  opengameart.org/users/bevouliincom
+ 33. Draw Power Bar With Images Background
+ No assets.
+ 34. Create Muzzle Flash
+ Turret  opengameart.org/users/nido
+ Gun Splash  opengameart.org/users/sinestesia
+ 35. Cloud Effect Using Filters & Effects
+ No assets.
+ 36. Missile Smoke Trail
+ Missile  opengameart.org/users/bevouliincom
+ 37. Selectable Stats
+ Faces  opengameart.org/users/charlesgabriel
+ 38. Add Playing Card & Shuffle
+ Playing Cards  opengameart.org/users/ryandansie
+ 39. Enemy Track Players Movement
+ Player  opengameart.org/users/bevouliincom
+ Enemy  opengameart.org/users/bevouliincom
+ 40. Tool Tip Popup
+ Speech Bubble  opengameart.org/users/rawdanitsu
+ Planet  opengameart.org/users/bevouliincom
+41. Popup Wobbly Text
+ No assets.
+ 42. Grow and Shrink Message Control
+ No assets.
+ 43. Smoothly Move To Mouse Position
+ Player  opengameart.org/users/bevouliincom
+ 44. Bounce Off Room Border
+ Player  opengameart.org/users/bevouliincom
+ 45. Pause Music When Sound Effect Plays
+ Music  gamemaker.io/en/bundles
+ Explosion  freesound.org/people/Klerrp/
+ 46. Glitch Text Effect
+ No assets.
+ 47. Wobbly Texr
+ No assets.
+ 48. Choose A Random Instance
+ Enemy  opengameart.org/users/bevouliincom
+ Player  opengameart.org/users/bevouliincom
+ 49. Draw Mini Healthbar For Enemy
+ Character  opengameart.org/users/bevouliincom
+ 50. Fade In and Out
+ Character  opengameart.org/users/bevouliincom
+ 51. Rotating Text
+ No assets.
+ 52. Flashing Text
+ No assets.
+ 53. Play Sound At Selected Volume
+ Explosion  freesound.org/people/Klerrp/
+ 54. Spawn Powerup Control System
+ No assets.
+ 55. Move Crosshair To Mouse Position
+ Crosshair  opengameart.org/users/nicegraphic
+56. Checkpoint System
+ Player  opengameart.org/users/bevouliincom
+ Crate  opengameart.org/users/polygonixgames
+ 57. Check If Instance In View
+ Player  opengameart.org/users/bevouliincom
+ 58. Jump Through Platforms
+ Player  opengameart.org/users/bevouliincom
+ Platform  opengameart.org/users/polygonixgames
+ 59. Play Random Level Music
+ Music  gamemaker.io/en/bundles
+ 60. Exploding Effect
+ Player  opengameart.org/users/bevouliincom
+ 61. Draw Text With Border
+ No assets.
+ 62. Move Coin To Score Text
+ Coin Sprite  opengameart.org/users/nia-mi
+ Coin Sound  freesound.org/people/robbeman/
+ 63. Tyre Track Effect
+ Car  opengameart.org/users/lawrencelaz
+ 64. Fireworks Display
+ No assets.
+ 65. Spawn Bullets From Double Weapon
+ Turret  opengameart.org/users/nido
+ Bullet  opengameart.org/users/nido
+ 66. Sprite Drop Shadow
+ Player  opengameart.org/users/bevouliincom
+ 67. Simple Top Down Collision
+ Player  opengameart.org/users/bevouliincom
+ Crate  opengameart.org/users/polygonixgames
+ 68. Spawn Instance With Random Subimage
+ Gems  opengameart.org/users/sylly
+ 69. Sine Wave Based Movement
+Player  opengameart.org/users/bevouliincom
+ 70. Draw Players Speed On Dial
+ Speed Dial  opengameart.org/users/konitatutorials
+ Pin  opengameart.org/users/nallebeorn
+ 71. Spawn Trees Border
+ Trees  opengameart.org/users/colourful-lungs
+ 72. One Button Controlled Movement
+ Crosshair  opengameart.org/users/nicegraphic
+ Arrow  opengameart.org/users/oglsdl
+ 73. Plane Movement
+ Plane Music  gamemaker.io/en/bundles
+ 74. Player Powerup Creator
+ No assets.
+ 75. Coin Drop Bonus Effect
+ Coin Sprite  opengameart.org/users/nia-mi
+ 76. Endless Levels
+ Islands  opengameart.org/users/kiririnochka
+ 77. Mini Healthbar With Segments
+ Player  opengameart.org/users/bevouliincom
+ 78. Outline Shader
+ Player  opengameart.org/users/bevouliincom
+ 79. Move Crosshair To Target
+ Bird  opengameart.org/users/bevouliincom
+ Crosshair  opengameart.org/users/nicegraphic
+ 80. Spawn Items With Gap
+ Poles  opengameart.org/users/megupets
+ Balls  opengameart.org/users/hayashi19
+ Gems  opengameart.org/users/sylly
+ 81. Add Scores To List
+ No assets.
+ 82. Cloud Effect
+ Clouds  opengameart.org/users/synethic223
+Plane opengameart.org/users/pzuh
+83. Ball Bouncing Off Insances
+ Ball  opengameart.org/users/hayashi19
+ 84. Keeping Value In Range
+ Ball  opengameart.org/users/hayashi19
+ 85. Film Style Scrolling Credits
+ No assets.
+ 86. Rotate Room View
+ Plane  gamemaker.io/en/bundles
+ Turret Turret  opengameart.org/users/nido
+ 87. Toggle Full Screen
+ Turret Turret  opengameart.org/users/nido
+ 88. Progress Bar
+ Arrow  opengameart.org/users/oglsdl
+ 89. Flash Player To Show Damage
+ Plane Music  gamemaker.io/en/bundles
+ 90. Fade Between Two Images
+ Text  cooltext.com/
+ 91. Draw Path As Circles
+ No assets.
+ 92. Simple Top Down Movement Control
+ Gun Character  opengameart.org/users/rileygombart
+ 93. Laser To Target
+ Laser Gun  opengameart.org/users/ogreofwart
+ Laser  wenrexa.itch.io/laser2020
+ 94. Bubble Explosion Effect
+ Bubble Sound 1  freesound.org/people/murraysortz/
+ Bubble Sound 2  freesound.org/people/Breviceps/
+ Bubble Sound 3  freesound.org/people/deleted_user_4128231/
+ Bubble Sound 4  freesound.org/people/MATRIXXX_/
+ Bubble Sound 5  freesound.org/people/pinto0lucas/
+ Bubble Image  opengameart.org/users/cogitollc
+ 95. Add Instance To Grid and Move To Target
+Block  opengameart.org/users/polygonixgames
+ Player  opengameart.org/users/bevouliincom
+ Melow  opengameart.org/users/ignasd
+ 96. Image Scale Fade and Rotate
+ Character  opengameart.org/users/bevouliincom
+ 97. Player Streak
+ No assets.
+ 98. Numbers As Text
+ No assets.
+ 99. Draw Lives As Images
+ Heart  opengameart.org/users/cdgramos
+ 100. Coin Explosion Effect
+ Coin Sprite  opengameart.org/users/nia-mi 
+ 101. Follow Object
+ Missile  opengameart.org/users/bevouliincom
+ Character  opengameart.org/content/modern-rpg-guy
+ 102. Orbit Object
+ Character  opengameart.org/content/modern-rpg-guy
+ Missile  opengameart.org/users/bevouliincom
+ 103. Random Name Generator
+ No assets.
+ 104. Top Down Movement
+ Character  opengameart.org/content/modern-rpg-guy
+ Crate  opengameart.org/users/polygonixgames
+ 105. Screen Shake
+ Turrets  opengameart.org/users/nido
+ 106. Bomb Destruction Zone
+ Explosion Sound  freesound.org/people/Logicogonist/
+ Explosion Sprite  opengameart.org/users/cuzco
+ 107. Circular Healthbar
+ No assets.
+ 108. Volume Based On Distance
+ Music  gamemaker.io/en/bundles
+ Target  opengameart.org/users/kyzerole
+ Player  opengameart.org/users/bevouliincom
+ 109. Snow Weather Effect
+ No assets.
+ 110. Password Easter Egg
+ No assets.
+ 111. Average Position Between 2 Instances
+ Crosshair  opengameart.org/users/nicegraphic
+ Target  opengameart.org/users/kyzerole
+ 112. Random Dice Rolls
+ Dice  opengameart.org/users/jameswhite
+ 113. On Screen Keyboard
+ No assets.
+ 114. Array Sort
+ No assets.
+ 115. Colour Picker
+ Colour Wheel  www.freevector.com/free-color-wheel
+vector">FreeVector.com
+ 116. Numbers To Speech
+ No assets.
+ 117. Teleport
+ Character  opengameart.org/content/modern-rpg-guy
+ Gems  opengameart.org/users/antumdeluge
+ 118. Queued Messages
+ No assets.
+ 119. Shop System
+ Turret  opengameart.org/users/nido
+ Buttons  www.kenney.nl
+ 120. Parallax Background
+ Background  opengameart.org/users/mobile-game-graphics
+ 121. Eight Directional Movement
+ 8 Directional Sprites  hormelz.itch.io/
+ 122. Room Transition Fade In & Out
+ Backgrounds  opengameart.org/users/mobile-game-graphics
+ 123. Nine Slice Example
+ Button  www.kenney.nl/
+ 124. Hit Box
+ Fighter  opengameart.org/users/segel
+ 125. Snap To Grid
+ Base
+ 126. Hide & Seek
+ Crate ttps //opengameart.org/users/polygonixgames
+ Character  opengameart.org/content/modern-rpg-guy
+ Enemy  opengameart.org/users/bevouliincom
+ 127. Save Highscore
+ No assets.
+ 128. Sprite Animation Control
+Zombie  opengameart.org/users/craftpixnet-2d-game-assets
+ 129.  Jet Pack & Gravity
+Jetpack  opengameart.org/content/game-asset-cruncher
+enemy-game-character-sprite-sheets
+ 130. Enemy Movement On Platform
+ Boy  opengameart.org/users/bevouliincom
+ Platform  opengameart.org/users/amir027
+ 131. Tweening
+ Missile  opengameart.org/users/bevouliincom
+ 132. Door & Key
+ Crate ttps //opengameart.org/users/polygonixgames
+ Character  opengameart.org/content/modern-rpg-guy
+ Key  opengameart.org/users/bongbonggun
+ Door  opengameart.org/users/headygavinl
+ 133. Wrap Instance Around Room
+ Missile  opengameart.org/users/bevouliincom
+ 134. Change Transparency On Collision
+ Character  opengameart.org/content/modern-rpg-guy
+ Tree  opengameart.org/users/onsemeliot
+ 135. Weapon Upgrade System
+ Turret  opengameart.org/users/nido
+ Bullet  opengameart.org/users/nido
+ 136. Knockback
+ Sprites  hormelz.itch.io/
+ 137. Road Builder
+ No assets.
+ 138. Select Multiple Troops
+ Monster  opengameart.org/users/bevouliincom
+ 139. Road Connections
+ Road  opengameart.org/users/kenney
+ 140. Lightning Effect
+ No assets.
+ 141. Gravity Movement
+ Balls  opengameart.org/users/hayashi19
+ Crate ttps //opengameart.org/users/polygonixgames
+ 142. Blood Damage Effect
+ Blood  opengameart.org/users/pwl
+ 143.Tap Instance To Change Image
+ Turret  opengameart.org/users/nido
+ 144. Bullet Holes
+ Crosshair  opengameart.org/users/nicegraphic
+ Target  opengameart.org/users/kyzerole
+ 145. Rope Between Objects
+ No assets.
+ 146. English to Morse Code
+ Morse Sounds  freesound.org/people/univ_lyon3/
+ 147. Loop Through Instances
+ Turrets  opengameart.org/users/nido
+ 148. Slowly Rotate To Angle
+ Turrets  opengameart.org/users/nido
+ Bullet  opengameart.org/users/nido
+ 149. Draw Clock
+ No assets.
+ 150. Randomly Place Objects In Room
+ Turrets  opengameart.org/users/nido
+ 151. Get Text From Keyboard
+ No assets.
+ 152. Shoot Projectile With Gravity
+ Turret  opengameart.org/users/nido
+ Bullet  opengameart.org/users/nido
+ 153. Fade On Player Collision
+ Character  opengameart.org/content/modern-rpg-guy
+ Crate  opengameart.org/users/polygonixgames
+ 154. Jump On Enemy To Kill
+ Crate  opengameart.org/users/polygonixgames
+ Player  opengameart.org/users/bevouliincom
+ Enemy  opengameart.org/users/bevouliincom
+ 155. Calculate Size Of Area
+ No asset.
+ 156. Draw Lines To Mouse Position
+ No asset.
+ 157. Random Building Generator
+No assets.
+ 158. Queue & Play Audio
+ No assets.
+ 159. Boss Style Movement
+ Enemy  opengameart.org/users/bevouliincom
+ Bullet  opengameart.org/users/nido
+ 160. Split Screen
+ Cars  opengameart.org/users/satik64
+ Rock  opengameart.org/users/bevouliincom
+ 161. Check Spelling Of Word
+ No assets.
+ 162. Player Character Selection
+ Characters  opengameart.org/users/bevouliincom
+ 163. Weapon Control & Ammo Packs
+ Bullet  opengameart.org/users/nido
+ Turret  opengameart.org/users/nido
+ Gun Bullet Sprite  opengameart.org/users/curato
+ Crate  opengameart.org/users/polygonixgames
+ Gun Sound  freesound.org/people/kretopi/
+ 164. Follow Player At Distance
+ Enemy opengameart.org/users/bevouliincom
+ Player opengameart.org/users/bevouliincom
+ 165. Resize Based On Position
+ Missile  opengameart.org/users/bevouliincom
+ 166. Using Mouse Wheel To Select Weapon
+ Turrets  opengameart.org/users/nido
+ 167. Font Drawing From Images
+ Font  opengameart.org/content/another-old-font
+ 168. Allow Player To Load Sprite
+ No assets.
+ 169. Enemy Shoots If Can See Player
+ Crate ttps //opengameart.org/users/polygonixgames
+ Character  opengameart.org/content/modern-rpg-guy
+ Enemy  opengameart.org/users/bevouliincom
+ Bullet  opengameart.org/users/nido
+ 170. Randomly Place Instances Avoiding Instances
+Gems  opengameart.org/users/firestorm200
+ Crate  opengameart.org/users/polygonixgame
+ 171. Split Sentence
+ No assets.
+ 172. Simple Menu System
+ Buttons  www.kenney.nl
+ 173. Moving Spikes & Damage System
+ Crate ttps //opengameart.org/users/polygonixgames
+ Boy  opengameart.org/users/bevouliincom
+ Spike  opengameart.org/users/dravenx
+ 174. Projectile Spread System
+ Turret  opengameart.org/users/nido
+ Bullet  opengameart.org/users/nido
+ 175. Ball Bounce & Squash
+ Balls  opengameart.org/users/hayashi19
+ Crate ttps //opengameart.org/users/polygonixgames
+ 176. Status Effect
+ Character  opengameart.org/content/modern-rpg-guy
+ 177. Foot Step Sounds With Animation
+ Footstep Sound  freesound.org/people/Ali_6868/
+ Character  opengameart.org/users/bevouliincom
+ 178. Game Fog
+ Sprites  opengameart.org/users/bevouliincom
+ Fog  opengameart.org/users/thomaswp
+ 179. Destruction With Multiple Subimages
+ Crate ttps //opengameart.org/users/polygonixgames
+ 180. Enemy Hide
+ Crate ttps //opengameart.org/users/polygonixgames
+ Sprites  opengameart.org/users/bevouliincom
+ 181. HUD Drawing On GUI Layer
+ Crate ttps //opengameart.org/users/polygonixgames
+ Player  opengameart.org/users/bevouliincom
+ Heart  opengameart.org/users/cdgramos
+ HP Bar  opengameart.org/users/charlexmachina
+ 182. Scroll Block Of Text Up and Down
+No assets.
+ 183. Blood Spray Effect
+ Blood  opengameart.org/users/pwl
+ 184. Voice On Level Up
+ No assets.
+ 185. Wind Blown Effect
+ Tree  opengameart.org/users/emgidev
+ 186. Double Jump
+ Crate ttps //opengameart.org/users/polygonixgames
+ Player  opengameart.org/users/bevouliincom
+ 187. Meteor Shower Effect
+ Meteor  www.glitchthegame.com/
+ Explosion  opengameart.org/users/jrob774
+ 188. Footstep Dust Effect
+ Boy  opengameart.org/users/bevouliincom
+ 189. Float & Die Effect
+ Character  opengameart.org/users/bevouliincom
+ 190. Fly Level Effect
+ Plane  gamemaker.io/en/bundles
+ 191. Dash Movement
+ Player  opengameart.org/users/bevouliincom
+ 192. Sliding On Ice
+ Player  opengameart.org/users/bevouliincom
+ Ice  opengameart.org/users/polygonixgames
+ Crate ttps //opengameart.org/users/polygonixgames
+ 193. Underwater Effect
+ Water  opengameart.org/users/forkart
+ Fish   opengameart.org/users/game-developer-studio  https://www.gamedeveloperstudio.com
+ Boat   opengameart.org/users/game-developer-studio  https://www.gamedeveloperstudio.com
+ Crate ttps //opengameart.org/users/polygonixgames
+ 194. Hint Arrow To Direction Of Powerup
+ Arrow  opengameart.org/users/oglsdl
+ Player  opengameart.org/users/bevouliincom
+ Powerup  opengameart.org/users/cethiel
+ 195. Button To Open Website
+Button  opengameart.org/users/nikke
+ 196. Health Pack Slowly Increase Health
+ Healthpack  opengameart.org/users/nicegraphic
+ 197. Change Enemy Colour When Targeted
+ Enemy  opengameart.org/users/bevouliincom
+ 198. Limit Weapon Shooting Timer
+ Turret  opengameart.org/users/nido
+ Missile  opengameart.org/users/nido
+ 199. Clock Stopwatch
+ No assets.
+ 200. Weapon Power & Direction System
+ Turret  opengameart.org/users/nido
+ Missile  opengameart.org/users/nido 
+ 201. Moving Platform Left and Right
+ Crate ttps //opengameart.org/users/polygonixgames
+ Player  gamemaker.io/en/bundles
+ 202. Spin Around Other Instance
+ Player  opengameart.org/users/bevouliincom
+ Balls  opengameart.org/users/hayashi19
+ 203. Vehicle With Smooth Turning
+ Wheel  opengameart.org/users/irmirx
+ Vehicle  opengameart.org/users/irmirx
+ 204. Tank and Turret Movement
+ Tank  opengameart.org/users/inyourbus
+ 205. Bbox Collison
+ Player  opengameart.org/users/bevouliincom
+ Balls  opengameart.org/users/hayashi19
+ 206. NPC That Performs Tasks
+ Crops  opengameart.org/users/josehzz
+ Character  opengameart.org/content/modern-rpg-guy
+ Building  opengameart.org/users/chibizilla
+ Some Code  forum.gamemaker.io/index.php?
+ members/frostycat.1531/
+ 207. Wall Jumping
+ Crate  opengameart.org/users/polygonixgames
+ Player  opengameart.org/users/bevouliincom
+ 208. Temporary Weapon Upgrade System
+ Missile, Bullets and Guns
+  opengameart.org/users/nido
+ Ship  http //opengameart.org/users/skorpio
+ 209. Player Shield System
+ Player  opengameart.org/users/bevouliincom
+Shield  opengameart.org/users/jcrown41
+ Missile  opengameart.org/users/nido
+ 210. Sprite Stacking Fake 3D
+ Barrels  opengameart.org/users/skalman
+ Bush  opengameart.org/users/jcrown41
+ 211.Water Reflection Using Effect Layers
+ Boat   opengameart.org/users/game-developer-studio  https://www.gamedeveloperstudio.com
+ 212. Magnet System
+ Player  opengameart.org/users/bevouliincom
+ Magnet  opengameart.org/users/peymangames
+ 213. Health Heart Part System
+ Heart  opengameart.org/users/cdgramos
+ 214. Tap To Move System
+ Crate  opengameart.org/users/polygonixgames
+ Player  opengameart.org/users/bevouliincom
+ 215. Resize Sprite
+ Crate  opengameart.org/users/polygonixgames
+ 216. Moving Platform Up and Down
+ Crate  opengameart.org/users/polygonixgames
+ Player  gamemaker.io/en/bundles
+ 217. Rotating Wheel
+ Wheel Sound  freesound.org/people/draelent/
+ Bomb  opengameart.org/users/truezipp
+ Chest  lostgarden.com/
+ Coin  opengameart.org/users/galangpiliang
+ Star  opengameart.org/users/galangpiliang
+ Gift  opengameart.org/users/shiroware
+ Rocket  opengameart.org/users/jmatencia
+ Bottle  opengameart.org/users/mike6432
+ TNT  opengameart.org/users/anamayart
+ Button  www.kenney.nl
+ Arrow  opengameart.org/users/oglsdl
+ Wheel  opengameart.org/users/simranzenov
+ 218. Fake 3D Effect
+ Car  opengameart.org/users/amir027
+ Trees  opengameart.org/users/domsson
+ Rock  opengameart.org/users/bevouliincom
+ 219. Flame Effect Using Particles
+ Candle  opengameart.org/users/cougarmint
+ 220. Rotating Spaceship With Inertia
+ Rocket  opengameart.org/users/jmatencia
+ 221. Rotating Ship Weapon and Manually Select Target
+ Ship http //opengameart.org/users/skorpio 
+Weapon  opengameart.org/users/nido
+ Enemy Ship  opengameart.org/users/alucard
+ Laser Sound  freesound.org/people/marcuslee/
+ 222. Destructible Terrain
+ Code roychanmelia
+ Grass  opengameart.org/users/dedii
+ Tree  opengameart.org/users/belohlavek
+ 223. Horizontal Scrolling Menu
+ Button  www.kenney.nl
+ 224. Vertical Scrolling Menu
+ Button  www.kenney.nl
+ 225. Ladder Climbing
+ Crate  opengameart.org/users/polygonixgames
+ Player  opengameart.org/users/bevouliincom
+ Ladder  www.kenney.nl
+ 226. Attack Left and Right
+ Player  gamemaker.io/en/bundles
+ 227. Moving Grass Side View
+ Grass  opengameart.org/users/zisongbr
+Player  opengameart.org/users/bevouliincom
+ 228. Target Enemy With Highest HP
+ Player  opengameart.org/users/bevouliincom
+ Enemy  opengameart.org/users/bevouliincom
+ With Block Code  forum.gamemaker.io/index.php?
+ threads/with-block-recipe-cards.25326/
+ 229. Rotating Mini Map
+ Crate  opengameart.org/users/polygonixgames
+ Player  opengameart.org/users/bevouliincom
+ 230. Screen Flash Damage Indicator
+ Sprite Player  opengameart.org/users/bevouliincom
+ 231. Board Game Move Pieces A
+ Board  opengameart.org/users/chasersgaming
+ Piece  opengameart.org/users/bevouliincom
+ 232. Board Game Move Pieces B
+ Board  opengameart.org/users/chasersgaming
+ Piece  opengameart.org/users/bevouliincom
+ 233. Predict Path Of Projectile
+ Turret  opengameart.org/users/nido
+ Bullet  opengameart.org/users/nido
+ Script GMLscripts.com/license - Some Changes Have Been
+ Made
+ 234. Animated Mouth When Talking
+ Face  opengameart.org/users/vitail
+ 235. Move All Instances By Given Amount
+ Sprites  opengameart.org/users/bevouliincom
+ 236. Split Rocks and Rotate
+ Asteroids  opengameart.org/users/phaelax
+ 237. Multiple Missiles – Only Target If Not Targeted
+ Turret  opengameart.org/users/nido
+ Missile  opengameart.org/users/nido
+ Enemy  opengameart.org/users/bevouliincom
+ 238.Find a Path Through A Maze
+ Bee  opengameart.org/users/bevouliincom
+ Crate  opengameart.org/users/polygonixgames
+ 239. Flying Instance With Shadow
+ Bee  opengameart.org/users/bevouliincom
+ 240. Cover Whole Room With Instances
+ Crate  opengameart.org/users/polygonixgames
+ 241. Keyboard Controlled Player With Mouse Controlled 
+Gun
+ Player  opengameart.org/users/bevouliincom
+ Gun  opengameart.org/users/ogreofwart
+ 242. Spaceship Control
+ Spaceship  opengameart.org/users/alucard
+ 243. Slide In Buttons
+ Buttons  www.kenney.nl
+ 244.Draw Crosshair In Middle Of View
+ No assets
+ 245. Draw Rectangle With Dashed Border
+ Script GMLscripts.com/license
+ 246. Top Down 360 Degree Movement
+ Zombie Character 
+  opengameart.org/users/rileygombart
+ Crate  opengameart.org/users/polygonixgames
+ 247. Attacking Sprite Control System
+ Sprites  gamemaker.io/en/bundles
+ Crate  opengameart.org/users/polygonixgames
+ 248. Enemy Patrol System
+ Character  opengameart.org/users/bevouliincom
+ Enemy  opengameart.org/users/bevouliincom
+ 249. Change Cursor To Selected Item
+ Turrets  opengameart.org/users/nido
+ 250. Fade Between Text Messages
+ No assets.
+ 251. Enemy Jumping
+ Knight  gamemaker.io/en/bundles
+ Crate  opengameart.org/users/polygonixgames
+ 252. Pick Up and Place Items From Invetory
+ Character  opengameart.org/users/bevouliincom
+ Items  opengameart.org/users/clint-bellanger
+ Crate  opengameart.org/users/polygonixgames
+ 253. 360 Degree Laser
+  wenrexa.itch.io/laser2020
+ 254. Laser Through Multiple Instances
+ Sprite  opengameart.org/users/bevouliincom
+ 255. Draw Sprite On Sprite Layer
+ Sprite  opengameart.org/users/bevouliincom
+ 256. Detect Double Click
+ No assets.
+ 257. Leave Path To Attack Then Return To Path
+ Player  opengameart.org/users/bevouliincom
+ 258. Choose Randon Word
+ No assets.
+ 259. Change Sprite When Jumping
+ Knight  gamemaker.io/en/bundles
+ 260. Play Random Sound
+ Audio  gamemaker.io/en/bundles / 
+Created/distributed by Kenney (www.kenney.nl)
+ 61. Move Multiple Instances Through A Small Gap
+ Enemy  opengameart.org/users/bevouliincom
+ Crate  opengameart.org/users/polygonixgames
+ 62. Draw Text With Formatting
+ No assets.
+ 263. Moving Grass Top Down
+ Grass  opengameart.org/users/zisongbr
+ Player  opengameart.org/users/bevouliincom
+ 264. Follow Path – Turn Before Moving
+ Vehicle  opengameart.org/users/irmirx
+ 265. Alert Player To Low Health
+ Voice Warning
+ Heart  opengameart.org/users/cdgramos
+ 266. Avatar Creator
+ Sprites  gamemaker.io/en/bundles
+ Buttons  opengameart.org/users/hawkadium
+ 267. Ship Shooting Cannon Balls
+ Ship  opengameart.org/users/lowder2
+ 268. Simple Glow Effect With Circles
+ Lantern  opengameart.org/users/saroman
+ 269. Simple Glow Effect With Sprite A
+ Lantern  opengameart.org/users/saroman
+ 270. Simple Glow Effect With Sprite A
+ Lantern  opengameart.org/users/saroman
+ 271. Move Towards Point Then Stop
+ Player  opengameart.org/users/bevouliincom
+ 272. Level Based On Score
+ No assets.
+ 273. Player Control Information
+ No assets.
+ 274. Selectable Background
+ Desert  opengameart.org/content/several-scrolling
+ backgrounds-and-layerable-runners
+ Swamp  opengameart.org/content/several-scrolling
+ backgrounds-and-layerable-runners
+ Beach  opengameart.org/users/craftpixnet-2d-game
+ assets
+ 275. Draw Buttons With Chosen Language
+ Buttons  www.kenney.nl/
+ 276 Lottery Numbers
+ No assets.
+ 277. Draw View Border On Draw Layer
+ Mushroom  opengameart.org/users/bevouliincom
+ Sprites  www.kenney.nl
+ Bush  opengameart.org/users/jcrown41
+ 278. Card Flipping Animation
+ Cards Byron Knoll
+ 279. Day Night Cycle
+ Mushroom  opengameart.org/users/bevouliincom
+ Sprites  www.kenney.nl
+ Bush  opengameart.org/users/jcrown41
+ 280. Rotating Shapes
+ No assets.
+ 281. Positional Audio
+ Fire Sprite  opengameart.org/users/janexx
+ Water Sprite  opengameart.org/users/grahhhhh
+ Player Sprite Spyros Kontis
+ Fire Sound  freesound.org/people/tc630/
+ Water Sound  freesound.org/people/SJM62/
+ 282. Imploding Text Effect
+ No assets.
+ 283. Laser Collision
+ Player  opengameart.org/users/bevouliincom
+ crate Crate ttps //opengameart.org/users/polygonixgames
+ 284. Pop Up Message
+ Sprites  opengameart.org/users/bevouliincom
+ Speech Bubble ttps //opengameart.org/users/rawdanitsu
+ 285. Skill Points
+ Button  www.kenney.nl/
+ 286. Depth Based Movement
+ Mushroom  opengameart.org/users/bevouliincom
+ Sprites  www.kenney.nl/
+ Bush  opengameart.org/users/jcrown41
+ 287. Party Mechanics
+ players spyros Kontis
+ Bush  opengameart.org/users/jcrown41
+ Crate ttps //opengameart.org/users/polygonixgames
+ 288. Card Battle
+ Players Images CraftPix.net
+ 289. Text Explode
+ No assets.
+ 290. Branching Dialogue
+ Button  www.kenney.nl/
+ 291. Marquee Text
+ No assets.
+ 292. Avatar Creator B
+ Avatar CraftPix.net
+ 293.Create Level From Text File
+ Tiles  opengameart.org/users/1001com
+ 294. Enemy Shooting System
+ Player  opengameart.org/users/bevouliincom
+ Enemy  opengameart.org/users/bevouliincom
+ Bullet  opengameart.org/users/nido
+ relerp function  forum.gamemaker.io/index.php?
+ members/frostycat.1531/
+ 295. Dropping Effect
+ No assets.
+ 296. Player Path
+ Character  opengameart.org/users/jcrown41
+ 297. Enemy Movement
+ Player  opengameart.org/users/bevouliincom
+ Enemy  opengameart.org/users/bevouliincom
+ 298.Compass Points
+ Compass  opengameart.org/users/pace-smith
+ Characters  opengameart.org/users/bevouliincom
+ Arrow  opengameart.org/users/oglsdl
+ 299. Drone Weapon
+ Player  opengameart.org/users/bevouliincom
+ Enemy  opengameart.org/users/bevouliincom
+ Mine  opengameart.org/users/jcrown41
+ 300. Old Film Effect
+ Background  opengameart.org/art-search-advanced?
+ field_art_type_tid%5B%5D=9
+301 Weapon Recoil
+Weapon / Missile   opengameart.org/users/nido
+302 Change Cursor
+Character  http //bevouliin.com
+303 Swap Music Tracks
+Music by me
+304 Rotate Sprite With Off Center Origin
+Character  http //bevouliin.com
+305 Unlockable Buttons
+No assets
+306 Follow Object With Avoidance
+Player Sprite  Spyros Kontis
+Enemy  http //bevouliin.com
+Crate  PolygonixGames
+307 Circular Rotating Text
+No assets
+308 Place Instances Without Blocking Path
+Positve beep   freesound.org/people/CogFireStudios/
+Negative beep   freesound.org/people/mango777/
+Sprites  www.kenney.nl
+309 Shooting AI Helper
+Character  http //bevouliin.com
+Missile   opengameart.org/users/nido
+Orb   opengameart.org/users/jcrown41
+310 Do Something After Given Time
+Character  http //bevouliin.com
+311 Extending Frog Tongue Without Sprite
+Frog   opengameart.org/users/scofanogd
+312 Extending Frog Tongue With Sprite
+Frog   opengameart.org/users/scofanogd
+313 Sprite With Two Attack Modes
+Sprites   gamemaker.io/en/bundles
+314 Rotating Tower With Subimages
+Towers   gamemaker.io/en/bundles
+315 Rotate View and Instances
+Player Sprite  Spyros Kontis
+Mushroom   opengameart.org/users/antumdeluge
+Plant   opengameart.org/users/bevouliincom
+316 Reverse Sentence Order
+No assets
+317 Generare Random Sentence
+No assets
+318 Plane Height and Shadow
+Plane  gamemaker.io/en/bundles
+319 Moon Lander AI
+Ship http //millionthvector.blogspot.de/
+Base  opengameart.org/users/nido
+320 Player Character Selection B
+Characters  opengameart.org/users/bevouliincom
+321 Slowly Reduce Health
+Die Sound  freesound.org/people/Jofae/
+Reduce Sound  freesound.org/people/samplecat/
+322 Level Progress - 2 Players
+Characters  opengameart.org/users/bevouliincom
+Background   opengameart.org/users/bevouliincom
+323 Find Random Position Outside View
+Bird   opengameart.org/users/bevouliincom
+324 Recolour Sprite With Blendmode
+Character  opengameart.org/users/bevouliincom
+325 Draw Text With Flashing Border
+No assets
+326 Count Down Text
+No assets
+327 Showing Damage To Spaceship
+Ship  opengameart.org/users/bevouliincom
+Fire  opengameart.org/users/bleed
+328 Change Volume Of Music
+No assets
+329 Slide In Out Stats
+Box  opengameart.org/users/polygonixgames
+330 Expanding Rotating Fire Effect
+Fire  opengameart.org/users/bleed
+331 Move To Position On Sine Wave
+Missile  opengameart.org/users/bevouliincom
+332 Recoil When Shooting
+Zombie  opengameart.org/users/rileygombart
+Missile  opengameart.org/users/nido
+333 Hold Button To Jump Higher
+Crate PolygonixGames
+Character  opengameart.org/users/bevouliincom
+334 Choose Random Number
+No assets
+335 Iris Effect Room Transition
+Backgrounds  opengameart.org/users/ramses2099
+36 Only Show Visible Walls
+Player Sprite Spyros Kontis
+Crate PolygonixGames
+337 Four Directional Dash
+Player Sprite Spyros Kontis
+Tree   opengameart.org/users/bevouliincom
+Mushroom  opengameart.org/users/segel
+338 Rectangle Room Transition Effect
+No assets.
+339 Eight Directional Movement
+Sprite   hormelz.itch.io/
+340 Segmented Neck
+Man  opengameart.org/users/aswino
+341 Hold To Change Sprite
+Spritehttps / /opengameart.org/users/bevouliincom
+342 Piece Movement
+Pieces opengameart.org/users/cethiel
+Board  op ngameart.org/users/greysondn
+343 Enemy With Trailing Instances
+Character  opengameart.org/users/bevouliincom
+344 Reverse Controls
+Player Sprite Spyros Kontis
+345 Four Direction Enemy
+Player SpriteSpyros Kontis
+Crate PolygonixGames
+346 Four Direction Move To Mouse
+Player Sprite Spyros Kontis
+Crate PolygonixGames
+347 Draw Sprite Border
+Sprite  opengameart.org/users/bevouliincom
+348 Keep Crosshair In View
+Player Sprite Spyros Kontis
+Crate PolygonixGames
+Crosshair  opengameart.org/content/crosshair-32x32
+Stone Tiles  opengameart.org/users/graveheartart
+349 Safe Password Code
+No assets
+350 Morph Between Images
+No assets
+351 Rotate Sprite Randomly
+Sprite  opengameart.org/users/bevouliincom
+352 Rotating Stars Effect
+Star  opengameart.org/users/%C3%A9crivain
+353 Fade In Out Messages
+No assets
+354 Pick Up and Carry
+Player  opengameart.org/users/bevouliincom
+Fruits  opengameart.org/users/codeinfernogames
+355 Bouncing Text Effect
+No assets
+356 Motion Blur With Movement
+Player  opengameart.org/users/bevouliincom
+357 Draw Sprite To Wall Edge
+Player  opengameart.org/users/bevouliincom
+358 Create and Detonate Bomb With Same Button
+Character  opengameart.org/users/bevouliincom
+Bomb  opengameart.org/users/znevs
+Explosion  opengameart.org/users/cuzco
+359 16 Car Directions
+Cars  ci.itch.io/
+Rock CC0
+360 Rotatable Ship With Multiple Weapons
+Ship http //millionthvector.blogspot.de
+Weapon / Missile  opengameart.org/users/nido
+361 Draw Text With Shadow
+No assets
+362 Attacking With Custom Hit Box
+Fighter  opengameart.org/users/nemezes
+363 Draw Healthbar From Two Sprites
+Sprites  opengameart.org/users/jannax
+364 Save Players Stats
+No assets
+365 Circular Rotating Text (B)
+No assets
+366 Spiralling Weapon
+Sprites  opengameart.org/users/bevouliincom
+367 Selectable Characters
+Sprites  opengameart.org/users/bevouliincom
+368 Proximity Helper
+Gem   opengameart.org/users/sylly
+Sprite  opengameart.org/users/arlantr
+Character  opengameart.org/users/bevouliincom
+369 Temporary Invincibility
+Weapons  opengameart.org/users/nido
+Player  opengameart.org/users/bevouliincom
+370 Falling Crates
+Crate PolygonixGames
+371 Countdown Clock
+Dial   opengameart.org/users/konitatutorials
+372 Rings Fly Through
+Sprites  gamemaker.io/en/bundles
+373 Text Based Menu
+No assets
+374 Charge Jump
+Character  opengameart.org/users/bevouliincom
+375 Proximity Cone Of Vision
+ opengameart.org/users/bevouliincom
+Arrow  opengameart.org/users/oglsdl
+376 Instance Selector
+Character  opengameart.org/users/bevouliincom
+377 Loot Dropper
+Character  opengameart.org/users/bevouliincom
+Gem  opengameart.org/users/sylly
+378 Pause Sytem
+Buttons  opengameart.org/users/screaming-brain-studios
+Characters  opengameart.org/users/bevouliincom
+379 Draw Decimal Fraction
+No assets
+380 Stats With Buttons
+Buttons  opengameart.org/users/screaming-brain-studios
+381 Show Parts Of A Sentence
+No assets
+382 Weapon Reload System
+Weapons  opengameart.org/users/nido
+Gun Sound  freesound.org/people/malatestinic.com/
+383 Moving Eyes
+Face  opengameart.org/users/scribe
+Eyes  opengameart.org/users/melle
+384 Audio Control
+Music  freesound.org/people/Nancy_Sinclair/
+Dog  freesound.org/people/tbsounddesigns/
+Car alarm  freesound.org/people/TRP/
+Helicopter  freesound.org/people/dwareing/
+385 Prevent Mouse Cursor Moving Over Instance
+Crate PolygonixGames
+Cursor  opengameart.org/users/deva
+386 Directional Shadow
+Sprites  opengameart.org/users/bevouliincom
+387 Scale Image
+Sprite  opengameart.org/users/bevouliincom
+388 Draw Bounding Box
+Sprites  opengameart.org/users/bevouliincom
+389 Poker Hand
+Cards   opengameart.org/users/ryandansie
+390 Choose and Name Random Playing Card
+Cards  opengameart.org/users/ryandansie
+391 Fade Sprite In and Out
+Sprite  opengameart.org/users/bevouliincom
+392 Circular Healthbar That Adjusts
+Sprites   opengameart.org/users/bevouliincom
+393 Dropping Block
+Crate PolygonixGames
+394 Slider
+Paddle  opengameart.org/users/aj-0
+395 Move To An Instance's Position
+Character h opengameart.org/users/rileygombart
+Crate PolygonixGames
+Gem  opengameart.org/users/sylly
+396 Parachute Falling With Wobble
+Parachute  opengameart.org/users/gamelvescom
+397 Increasing Difficulty
+Sprite  opengameart.org/users/bevouliincom
+398 Incoming Enemy
+Sprite  opengameart.org/users/bevouliincom
+399 Warp Portal
+Orb  opengameart.org/content/powerup-animated-orb
+Player  opengameart.org/users/bevouliincom
+400 Programable Characters
+Shop   opengameart.org/users/silicaandpina
+Characters  Spyros Kontis
+Water   opengameart.org/users/forkart
+Tree   opengameart.org/users/bevouliincom
+Bed   opengameart.org/users/arlantr 
+401 Drawing Sprite Fonts In Different Colours 
+Font  opengameart.org/content/another-old-font
+402 Stealth Zones
+Player Sprite   opengameart.org/users/bevouliincom
+Alarm   freesound.org/people/Vendarro/
+Crate   opengameart.org/users/polygonixgames
+403 Dynamic Shadows 
+Sprites   opengameart.org/users/bevouliincom
+Sun   opengameart.org/users/salemf
+404 Proximity Weapon
+Weapons   opengameart.org/users/nido
+Crate   opengameart.org/users/polygonixgames
+Explosion   freesound.org/people/FusionWolf3740/
+405 Sticky Projectiles
+Crate   opengameart.org/users/polygonixgames
+Weapons   opengameart.org/users/nido
+Explosion   freesound.org/people/FusionWolf3740/
+406 Reflecting Projectiles
+Crate   opengameart.org/users/polygonixgames
+Weapons   opengameart.org/users/nido
+Explosion   freesound.org/people/FusionWolf3740/
+407 Conveyor Belts 
+Crate ttps //opengameart.org/users/polygonixgames
+Player  opengameart.org/users/bevouliincom
+Conveyor   opengameart.org/users/maxwof
+408 Spreading Fire
+Block   opengameart.org/users/bevouliincom
+Fire   opengameart.org/users/benhickling
+409 Boomerang Mechanic
+Crate    opengameart.org/users/polygonixgames
+Player   opengameart.org/users/bevouliincom
+Fire   opengameart.org/users/cethiel
+410 Burnable Objects
+Fire   opengameart.org/users/benhickling
+Player Sprite  Spyros Kontis
+Crate    opengameart.org/users/polygonixgames
+411 Echo Location
+Crate    opengameart.org/users/polygonixgames
+412 Four Directional Smooth Dash
+Player Sprite  Spyros Kontis
+Tree   opengameart.org/users/bevouliincom
+Mushroom   opengameart.org/users/segel
+413 Shock Waves
+Character   opengameart.org/users/bevouliincom
+414  Hover Mechanic
+Knight   gamemaker.io/en/bundles
+Crate    opengameart.org/users/polygonixgames
+415  Jump Pads
+Knight   gamemaker.io/en/bundles
+Crate    opengameart.org/users/polygonixgames
+Grass   opengameart.org/users/amir027
+416 Momentum Jumps
+Knight   gamemaker.io/en/bundles
+Crate    opengameart.org/users/polygonixgames
+417 Gravity Flips
+Character   opengameart.org/users/bevouliincom
+Crate    opengameart.org/users/polygonixgames
+418 Explosive Bombs
+Player Sprite  Spyros Kontis
+Crate    opengameart.org/users/polygonixgames
+Bomb  opengameart.org/users/znevs
+Explosions   gamemaker.io/en/bundles
+Explosion Sound   freesound.org/people/IdkMrGarcia/
+419 Explosive Barrels Chain
+Barrels   opengameart.org/users/skalman
+Explosions   gamemaker.io/en/bundles
+420 End-of-Level Gate
+Player Sprite  Spyros Kontis
+Gems   opengameart.org/users/firestorm200
+Door   opengameart.org/users/bradyelavich
+Crate    opengameart.org/users/polygonixgames
+421 Coin Collection
+Player Sprite  Spyros Kontis
+ opengameart.org/users/bevouliincom
+Coin   opengameart.org/users/austinjeong
+422 One Way Blocks
+Player Sprite  Spyros Kontis
+Block   opengameart.org/users/cptx032
+423 Wind Zones
+Player Sprite  Spyros Kontis
+Smoke   opengameart.org/users/thejosh
+424 Nuke
+Player Sprite  Spyros Kontis
+Enemies   opengameart.org/users/bevouliincom
+Explosion   gamemaker.io/en/bundles
+Explosin Sound   freesound.org/people/IdkMrGarcia/
+425 Timed Collectibles
+Coin   opengameart.org/users/austinjeong
+Player Sprite  Spyros Kontis
+426 Retractable Bridges
+Brdige   opengameart.org/users/skalman
+Swicth   opengameart.org/users/pechvogel
+Crate    opengameart.org/users/polygonixgames
+Stone Sound   freesound.org/people/mbezzola/
+427 Tethering Mechanic
+Chain   opengameart.org/users/tapio
+Crate    opengameart.org/users/polygonixgames
+Weapons   opengameart.org/users/nido
+428 Squish Image
+Text Cooltext.com
+429 Adaptable Button
+No assets
+430 Star Effect
+No assets
+431 Cracked Walls
+Wall  opengameart.org/content/wall-3
+Character   opengameart.org/users/bevouliincom
+Crate    opengameart.org/users/polygonixgames
+Thud Sound   freesound.org/people/TriqyStudio/
+Cracking   freesound.org/people/RutgerMuller/
+432 Pressure Plate
+Character   opengameart.org/users/bevouliincom
+Crate    opengameart.org/users/polygonixgames
+Wood   opengameart.org/users/qubodup
+Gem   opengameart.org/users/firestorm200
+433 Multiple Weapons
+Weapons   opengameart.org/users/nido
+Enemy   opengameart.org/users/bevouliincom
+434 Camera Pan
+Player Sprite  Spyros Kontis
+Tree   opengameart.org/users/bevouliincom
+Crate    opengameart.org/users/polygonixgames
+Code 
+Burlaque Game Studio.  burlaquegamestudio.com YouTube    www.youtube.com/@jug5889
+435 Time-Locked Doors
+Character   opengameart.org/users/bevouliincom
+Crate    opengameart.org/users/polygonixgames
+Door   opengameart.org/users/bmaczero
+436 Momentum Based Movement
+Player Sprite  Spyros Kontis
+Crate    opengameart.org/users/polygonixgames
+437 Cutting Laser
+Sprites  Character   opengameart.org/users/bevouliincom
+438 Zoom Control
+Player Sprite  Spyros Kontis
+Crate    opengameart.org/users/polygonixgames
+349 Teleport Pads
+Character   opengameart.org/users/bevouliincom
+Crate    opengameart.org/users/polygonixgames
+Switch   opengameart.org/users/pechvogel
+440 Customizable Turrets
+Weapons   opengameart.org/users/nido
+441 Directional Shield
+Shield   opengameart.org/users/cethiel
+Player Sprite  Spyros Kontis
+Crate    opengameart.org/users/polygonixgames
+Enemy   opengameart.org/users/bevouliincom
+442 Enemy That Circles Player
+Character  http //bevouliin.com
+Enemy   opengameart.org/users/jcrown41
+443 Target Enemy With Highest HP
+Enemy  http //bevouliin.com
+Weapons   opengameart.org/users/nido
+Crosshair   opengameart.org/users/lucian-pavel
+444 Cloaking Device
+Enemy & Player  Enemy  http //bevouliin.com
+Floor   opengameart.org/users/letargicdev
+445 Enemy Drops
+Enemy  Enemy  http //bevouliin.com
+Gems   opengameart.org/users/firestorm200
+446 Rotating Obstacles
+Player Sprite  Spyros Kontis
+Crate    opengameart.org/users/polygonixgames
+Weapon   opengameart.org/users/falcon-gamedev
+447 Enemy Patrol Patterns
+Enemy  http //bevouliin.com
+Crate    opengameart.org/users/polygonixgames
+448 Sinking Sands
+Player  http //bevouliin.com
+Floor   opengameart.org/users/letargicdev
+Sand   opengameart.org/users/drummyfish
+449 Decoy Tools
+Enemy & Player  http //bevouliin.com
+Orb   opengameart.org/users/jcrown41
+450 Colourful Explosions
+No assets
+451 Fighting Game Knockback
+Background   opengameart.org/users/titison
+Hit Effect   opengameart.org/users/cethiel
+Negative Sound   freesound.org/people/MrFossy/
+Kick Sound   freesound.org/people/friedensreich/
+Punch Sound   freesound.org/people/steveuk87/
+Block Sound   freesound.org/people/Reitanna/
+Characters   gamemaker.io/en/bundles
+452 Enemy Mirrors Player
+Player Sprite  Spyros Kontis
+Crate    opengameart.org/users/polygonixgames
+453 Random Direction Movement
+Enemy  http //bevouliin.com
+454 Enemy Swoop Attack
+Enemy & Player  http //bevouliin.com
+Weapon   opengameart.org/users/nido
+455 Cluster Bombs
+Enemy   opengameart.org/users/bevouliincom
+456 Synchronized Movement
+Player Sprite  Spyros Kontis
+Enemy  http //bevouliin.com
+457 Spring-Loaded Enemies
+Player Sprite  Spyros Kontis
+Enemy  http //bevouliin.com
+Floor   opengameart.org/users/letargicdev
+458 Gap Crossers
+Enemy  http //bevouliin.com
+Floor   opengameart.org/users/letargicdev
+Crate   opengameart.org/users/polygonixgames
+459 Slime Trails
+Player Sprite  Spyros Kontis
+Enemy   opengameart.org/users/bevouliincom
+Crate   opengameart.org/users/polygonixgames
+Slime   opengameart.org/users/zutar
+460 Change Path Direction
+Enemy   opengameart.org/users/bevouliincom
+461 Spiral Dive
+Character  http //bevouliin.com
+Enemy   opengameart.org/users/jcrown41
+462 Ambush Hunters
+Player Sprite  Spyros Kontis
+Crate    opengameart.org/users/polygonixgames
+Enemy   opengameart.org/users/bevouliincom
+463 Healers
+Sprites  http //bevouliin.com
+464 Charging Enemies
+Sprites   opengameart.org/users/bevouliincom
+Weapon   opengameart.org/users/nido
+465 Dodging Enemies
+Sprites   opengameart.org/users/bevouliincom
+Weapon   opengameart.org/users/nido
+466 Orbital Shields
+Character  http //bevouliin.com
+Orb   opengameart.org/users/jcrown41
+Weapon   opengameart.org/users/nido
+467 Swing Enemies
+Orb   opengameart.org/users/jcrown41
+468 Reverse Chasers
+Characters  http //bevouliin.com
+Crate    opengameart.org/users/polygonixgames
+Bomb   opengameart.org/users/truezipp
+469 Directional Blockers
+Crate   opengameart.org/users/polygonixgames
+Player Sprite  Spyros Kontis
+Stone Block   opengameart.org/users/aroachifoundonmypillow
+470 Sky Divers
+Characters  http //bevouliin.com
+471 Split Creatures
+Characters  http //bevouliin.com
+472 Barrel Rolls and Loops
+Sprites   gamemaker.io/en/bundles
+473 Dogfight Lock-On
+Sprites   gamemaker.io/en/bundles
+Crosshairs   opengameart.org/users/youre-perfect-studio
+474 Cloud Cover Stealth
+Sprites   gamemaker.io/en/bundles
+475 Plane Switching
+Sprites   gamemaker.io/en/bundles
+476 Colour Matching
+Characters  http //bevouliin.com
+Gems   opengameart.org/users/firestorm200
+477 Mine Weapon
+Player Sprite  Spyros Kontis
+Crate   opengameart.org/users/polygonixgames
+Mine   www.goodfreephotos.com/
+479 Teleporting Enemies
+Player Sprite  Spyros Kontis
+Crate   opengameart.org/users/polygonixgames
+Characters  http //bevouliin.com
+480 Patrolling Guards
+Character  http //bevouliin.com
+Player Sprite  Spyros Kontis
+Characters  http //bevouliin.com
+481 Area Explosion
+Character  http //bevouliin.com
+Explosion   gamemaker.io/en/bundles
+482 Mirror Shields
+Sprites   gamemaker.io/en/bundles
+483 Harassers
+Character  http //bevouliin.com
+Player Sprite  Spyros Kontis
+484 Spinning Dashers
+Character  http //bevouliin.com
+Player Sprite  Spyros Kontis
+485 Laser Sweepers
+Character  http //bevouliin.com
+Weapon   opengameart.org/users/nido
+Laser   wenrexa.itch.io/laser2020
+86 Ground Pounders
+Player Sprite  Spyros Kontis
+Enemy  http //bevouliin.com
+Floor   opengameart.org/users/letargicdev
+487 Mini Map Level Selection
+Icon   opengameart.org/users/dalenryder
+488 Replenish Stats
+Player Sprite  Spyros Kontis
+Wood   opengameart.org/users/bevouliincom
+Food   opengameart.org/users/codeinfernogames
+Water   opengameart.org/users/color-optimist
+489 Player Decoy
+Player Sprite  Spyros Kontis
+Enemy  http //bevouliin.com
+490 Variable Damage
+Player Sprite   opengameart.org/users/bevouliincom
+Wall  http //www.blendswap.com/blends/view/40962
+Crate   opengameart.org/users/polygonixgames
+491 Solar Flares
+Player Sprite   opengameart.org/users/bevouliincom
+Sun   opengameart.org/users/salemf
+492 Zombie Enemy
+Player Sprite  Spyros Kontis
+Enemy   opengameart.org/users/rileygombart
+493 Surround Player
+Player Sprite  Spyros Kontis
+Enemy   opengameart.org/users/bevouliincom
+494 Enemy Hint
+Player Sprite  Spyros Kontis
+Enemy   opengameart.org/users/bevouliincom
+495 Power Upgrade
+Weapons   opengameart.org/users/nido
+496 Electricity Towers
+Sprite   opengameart.org/users/nido
+497 Freeze Bullets
+Weapons   opengameart.org/users/nido
+Player Sprite  Spyros Kontis
+498 Money Based Upgrades
+Weapons   opengameart.org/users/nido
+499 Random Paths
+Enemy  http //bevouliin.com
+500 Reinforcement Callers
+Enemy   opengameart.org/users/bevouliincom
