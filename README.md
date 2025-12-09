@@ -5,6 +5,8 @@ This repository accompanies [*GameMaker Programming Challenges*](https://www.lin
 [comment]: #cover
 ![Cover image](979-8-8688-2128-8.jpg)
 
+Please find additional oversize files located here: https://springernature-my.sharepoint.com/:f:/p/gws3346/IgCZ-G5w_af4TKFOmPzvn1UEAagei3dHfU6o_WM7MwS_wcc?e=gdWvlt
+
 Download the files as a zip using the green button, or clone the repository to your machine using Git.
 
 ## Releases
